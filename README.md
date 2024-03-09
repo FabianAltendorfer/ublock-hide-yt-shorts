@@ -1,6 +1,6 @@
 # Remove Shorts from your Youtube Page
 
-Youtube Shorts, Reels or TikTok-Videos are terrible brain for your brain and your consciousness. I think it is very important for every self-learner to avoid them as good as possible.
+Youtube Shorts, Reels and TikTok-Videos are terrible for our brains and our consciousness. I think it is very important for every self-learner to avoid them as good as possible.
 The only problem is, they are hard to avoid. I don't use Instagram and TikTok, but Youtube alot and Shorts are present all the time.
 
 I found this OSS-Project and tried it out - it works fantastic! So I decided to fork it and adjust the README with a step-by-step tutorial, so that it is even easier for everyone to activate this.
