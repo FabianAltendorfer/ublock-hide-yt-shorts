@@ -12,9 +12,11 @@ In your browser, go to Extensions and search for uBlock Origin, download and act
 ![image](https://github.com/FabianAltendorfer/ublock-hide-yt-shorts/assets/98153318/428f3969-9e06-4994-bf09-74cf133ea802)
 
 ## 2. Navigate to "My filters"
-Go into the details of the uBlock Extension in your browser and click (at least in Brave) **Extension Options**. This opens a dashboard with multiple categories. Navigate to **My filters**.
+Go into the details of the uBlock Extension in your browser and click (at least in Brave) **Extension Options**.
 
 ![image](https://github.com/FabianAltendorfer/ublock-hide-yt-shorts/assets/98153318/c68ea84d-639f-447e-b5ac-f98c44a912f2)
+
+This opens a dashboard with multiple categories. Navigate to **My filters**.
 
 ![image](https://github.com/FabianAltendorfer/ublock-hide-yt-shorts/assets/98153318/63babba9-c50c-443d-8c6b-01e29d4063fd)
 
