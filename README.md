@@ -12,7 +12,7 @@ In your browser, go to Extensions and search for uBlock Origin, download and act
 ![image](https://github.com/FabianAltendorfer/ublock-hide-yt-shorts/assets/98153318/428f3969-9e06-4994-bf09-74cf133ea802)
 
 ## 2. Copy/Paste below code into "My filters"
-Go into the details of the uBlock Extension in your browser and click (at least in Brave) <b>Extension Options<\b>. This opens a dashboard with multiple categories. Navigate to <b>My filters<\b> and copy/paste below code into the code area.
+Go into the details of the uBlock Extension in your browser and click (at least in Brave) **Extension Options**. This opens a dashboard with multiple categories. Navigate to **My filters** and copy/paste below code into the code area.
 
 ```
 ! Title: Hide YouTube Shorts
@@ -84,7 +84,7 @@ m.youtube.com##ytm-reel-shelf-renderer.item:has(.reel-shelf-title-wrapper:has-te
 m.youtube.com##.single-column-browse-results-tabs>a:has-text(Shorts)
 ```
 
-Click <b>Apply changes<\b>. Reopen Youtube.com - <b>AWESOME! You are now Shorts free!!!<\b>
+Click **Apply changes**. Reopen Youtube.com - **AWESOME! You are now Shorts free!!!**
 
 
 
